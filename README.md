@@ -1,11 +1,12 @@
 # What's this?
 - slides of lightning talks by ME :)
     - web version
-        - in preparation...
+        - https://corselia.github.io/unofficial-toro-birthday-party-2017/
     - pdf version
-        - in preparation...
+        - [lightning_talks_slides_2017.pdf](/lightning_talks_slides_2017.pdf)
 - at Unofficial Birthday Party 2017
     - my report is in preparation...
+        - [「非公式！トロの誕生日会2017」に行ってきました！ - 約束の地](http://obel.hatenablog.jp/entry/20160507/xxxxxxxxxxx)
 
 # Who is TORO?
 - A cat "TORO", who wants to be human, birth on May 6th.
