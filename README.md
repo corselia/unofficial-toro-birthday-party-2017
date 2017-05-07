@@ -6,7 +6,7 @@
         - [lightning_talks_slides_2017.pdf](/lightning_talks_slides_2017.pdf)
 - at Unofficial Birthday Party 2017
     - my report is in preparation...
-        - [「非公式！トロの誕生日会2017」に行ってきました！ - 約束の地](http://obel.hatenablog.jp/entry/20160507/xxxxxxxxxxx)
+        - [「非公式！トロの誕生日会2017」に行ってきました！ - 約束の地](http://obel.hatenablog.jp/entry/20170507/1494143818)
 
 # Who is TORO?
 - A cat "TORO", who wants to be human, birth on May 6th.
