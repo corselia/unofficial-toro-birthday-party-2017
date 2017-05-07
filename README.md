@@ -4,8 +4,8 @@
         - https://corselia.github.io/unofficial-toro-birthday-party-2017/
     - pdf version
         - [lightning_talks_slides_2017.pdf](/lightning_talks_slides_2017.pdf)
-- at Unofficial Birthday Party 2017
-    - my report is in preparation...
+- at Unofficial TORO's Birthday Party 2017
+    - my report is below :)
         - [「非公式！トロの誕生日会2017」に行ってきました！ - 約束の地](http://obel.hatenablog.jp/entry/20170507/1494143818)
 
 # Who is TORO?
